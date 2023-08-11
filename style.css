@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans&display=swap');
+
+body {
+    background: url("https://kq-storage.s3.ap-south-1.amazonaws.com/Github/earth/climate-change-bg%5B1%5D.png");
+    font-family: 'Work Sans', sans-serif;
+    background-size: 100% 100%;
+    text-align: center;
+}
+
+.container {
+    width: 100vw;
+    height: 100vh;
+    color: white;
+    margin-top: 200px;
+}
